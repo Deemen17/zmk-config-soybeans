@@ -1,1 +1,1 @@
-# zml-config-peach-rev1-keyboard
+# ZMK Config for PCB Soybeans prototype 2 by kien242
