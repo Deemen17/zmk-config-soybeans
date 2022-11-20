@@ -96,7 +96,7 @@
 			     &reset          &none    &none    MYMAIL    UNIMAIL    DEEMAIL                                           &out OUT_TOG  &bt BT_CLR &none &none PHONE &none  &none &bootloader    &kp PG_UP
 			     &rgb_ug RGB_TOG &rgb_ug RGB_EFF &rgb_ug RGB_HUI &rgb_ug RGB_SAI &rgb_ug RGB_BRI &rgb_ug RGB_SPI          &bt BT_NXT   &bt BT_PRV   &none  &none  &none   &none  &reset              &kp PG_DN
 			     &ext_power EP_TOG &rgb_ug RGB_EFR &rgb_ug RGB_HUD &rgb_ug RGB_SAD &rgb_ug RGB_BRD &rgb_ug RGB_SPD        &none  &none  &none    &none   &none &none    &kp UP 
-			     &none                    &kp LG(LS(S))                             &kp SPACE                 &mo 1                  &kp BSPC      SRC         &kp LEFT   &kp DOWN   &kp RIGHT
+			     &none                    &kp LG(LS(S))                             &kp SPACE                 &trans               &kp BSPC      SRC         &kp LEFT   &kp DOWN   &kp RIGHT
 			>;
                      sensor-bindings = <&inc_dec_kp C_BRI_UP C_BRI_DN>;
 		};
