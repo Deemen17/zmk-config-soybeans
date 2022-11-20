@@ -78,7 +78,6 @@
 		 	, <&gpio0 9  GPIO_ACTIVE_HIGH>
 		 	, <&gpio0 10 GPIO_ACTIVE_HIGH>
 		 	;
->>>>>>> 114d73449e08eb287c106c16fac88ce7166773bf
 
 		row-gpios
 			= <&gpio0 19 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
